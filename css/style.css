@@ -1,0 +1,13 @@
+.text{
+    font-size: 25px;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.search-input{
+   text-align: center;
+}
+
+.card-body{
+    background-color: aqua !important;
+}
